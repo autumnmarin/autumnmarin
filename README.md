@@ -1,4 +1,6 @@
 
+<!-- SCRATCH
+
 ### Welcome :wave:
 
 
@@ -7,7 +9,7 @@
 
 
 
-<!-- SCRATCH
+
 
 ## Technologies I Love
 ![alt text](http://url/to/img.png)
