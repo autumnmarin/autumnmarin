@@ -1,9 +1,25 @@
+## Welcome :wave:
+
+🔭 I’m currently working on ...
+
+Georgia Tech CS6242 Data and Visual Analytics
+
+
+## Bookmarks 
+
+[Argo Scholar, Interactive Literature Visualization App](https://poloclub.github.io/argo-scholar/)
+
+## Bookshelf: 
+
+[ISLR: Introduction to Statistical Learning](https://amzn.to/3BRjEpZ)
+
+[The Elements of Statistical Learning](https://amzn.to/3BNtyZC)
+
+[DEBUGGING](https://amzn.to/3DSOgtQ)
+
+[Naked Statistics: Stripping the Dread from the Data](https://amzn.to/3SgtIja)
 
 <!-- SCRATCH
-
-### Welcome :wave:
-
-
 
 
 
