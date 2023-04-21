@@ -1,3 +1,6 @@
+<!-- SCRATCH
+
+
 ## Welcome :wave:
 
 🔭 I’m currently working on ...
@@ -5,11 +8,13 @@
 Georgia Tech CS6242 Data and Visual Analytics
 
 
-## Bookmarks 
+#### :star: Bookmarks 
 
 [Argo Scholar, Interactive Literature Visualization App](https://poloclub.github.io/argo-scholar/)
 
-## Bookshelf: 
+[Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+
+#### :books: Bookshelf: 
 
 [ISLR: Introduction to Statistical Learning](https://amzn.to/3BRjEpZ)
 
@@ -19,7 +24,6 @@ Georgia Tech CS6242 Data and Visual Analytics
 
 [Naked Statistics: Stripping the Dread from the Data](https://amzn.to/3SgtIja)
 
-<!-- SCRATCH
 
 
 
