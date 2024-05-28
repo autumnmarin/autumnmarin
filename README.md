@@ -13,7 +13,12 @@ Hello! I'm **Autumn** 🎓, a recent graduate from the **Georgia Tech Analytics 
 - **Business Intelligence** 🕵️: Leveraging data to drive business strategy and decision-making.
 
 ---
+## 🔍 Recent Projects
 
+- **Martingale in Python** 🎲  Implemented a Martingale simulation for a roulette wheel to analyze betting strategy outcomes.
+- **Simulation to Optimize Medley Relay** 🏅 Developed an Excel-based simulation to optimize medley relay team compositions based on swimmer performance metrics.
+- **Atlanta Airport Arrivals Simulation in Arena** ✈️ Built a simulation model for Atlanta airport arrivals using Arena simulation software to optimize operations.
+---
 
 ## 🎓 Education
 
@@ -27,21 +32,38 @@ Hello! I'm **Autumn** 🎓, a recent graduate from the **Georgia Tech Analytics 
   *California State University Sacramento* :deciduous_tree:
 
 ---
-<!-- This is a comment 
 ## 🛠️ Tools & Technologies
 
 - **Programming Languages**: Python 🐍, R 📉, SQL 💻
 - **Data Visualization**: Tableau 📊, Matplotlib 📈, Seaborn 🌊
-- **Machine Learning**: TensorFlow 🤖, Keras 🧠, Scikit-learn 🧪
-- **Big Data**: Hadoop 🐘, Spark ⚡, Hive 🐝
-- **Others**: GitHub 🐱, Docker 🐳, Jupyter Notebooks 📓
+- **Machine Learning**:Scikit-learn 🧪 BERTopic 🤖
+- **Others**: GitHub 🐱,  Jupyter Notebooks 📓
+---
+
+
+## :books: Bookshelf:
+
+- [ISLR: Introduction to Statistical Learning](https://amzn.to/3BRjEpZ)
+
+- [The Elements of Statistical Learning](https://amzn.to/3BNtyZC)
+
+- [DEBUGGING](https://amzn.to/3DSOgtQ)
+
+- [Naked Statistics: Stripping the Dread from the Data](https://amzn.to/3SgtIja)
 
 ---
 
 ## 🌐 Let's Connect!
 
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername) 🐱
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername) 🔗
+
+- **LinkedIn**: https://linkedin.com/in/autumnpeters 🔗
+---
+<!-- This is a comment 
+
+
+---
+
+
 - **Twitter**: [Your Twitter Profile](https://twitter.com/yourusername) 🐦
 
 ---
