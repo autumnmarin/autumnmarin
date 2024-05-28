@@ -1,70 +1,79 @@
-<!-- SCRATCH
+# 👋 Hello!
+
+## 🌟 About Me
+
+Hello! I'm **Autumn** 🎓, a recent graduate from the **Georgia Tech Analytics Masters Program** 🐝. As a data scientist, I'm passionate about turning data into actionable insights💡 and communicating those results concisely 🤖.
+
+---
+
+## 🎯 What I Do
+
+- **Data Analysis & Visualization** 📊: Transforming raw data into compelling stories using tools like Python 🐍, R 📉, and Tableau 📈.
+- **Big Data Technologies** 💾: Working with large datasets using Excel and SQL 🛠️.
+- **Business Intelligence** 🕵️: Leveraging data to drive business strategy and decision-making.
+
+---
 
 
-## Welcome :wave:
+## 🎓 Education
 
-🔭 I’m currently working on ...
+- **Masters of Science in Analytics** 🐝  
+  *Georgia Institute of Technology* 🌐
 
-Georgia Tech CS6242 Data and Visual Analytics
+- **Web Development Professional Certificate** 📜  
+  *University of California, Davis* 🌟
+
+- **Bachelor of Science in Business Finance** :chart:  
+  *California State University Sacramento* :deciduous_tree:
+
+---
+<!-- This is a comment 
+## 🛠️ Tools & Technologies
+
+- **Programming Languages**: Python 🐍, R 📉, SQL 💻
+- **Data Visualization**: Tableau 📊, Matplotlib 📈, Seaborn 🌊
+- **Machine Learning**: TensorFlow 🤖, Keras 🧠, Scikit-learn 🧪
+- **Big Data**: Hadoop 🐘, Spark ⚡, Hive 🐝
+- **Others**: GitHub 🐱, Docker 🐳, Jupyter Notebooks 📓
+
+---
+
+## 🌐 Let's Connect!
+
+- **GitHub**: [Your GitHub Profile](https://github.com/yourusername) 🐱
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername) 🔗
+- **Twitter**: [Your Twitter Profile](https://twitter.com/yourusername) 🐦
+
+---
+
+## 🚀 Projects
+
+### 1. [Project Name] 🎯
+- **Description**: Brief description of what the project is about.
+- **Technologies Used**: Python 🐍, TensorFlow 🤖, Tableau 📊
+- **GitHub Repository**: [Link to the repository](https://github.com/yourusername/projectname)
+
+### 2. [Project Name] 🔍
+- **Description**: Brief description of what the project is about.
+- **Technologies Used**: R 📉, Shiny 🌟, SQL 💻
+- **GitHub Repository**: [Link to the repository](https://github.com/yourusername/projectname)
+
+---
+
+## 🌱 Personal Interests
+
+- **Hiking & Outdoors** 🥾🌲
+- **Cooking & Baking** 🍳🍰
+- **Reading & Writing** 📚✍️
+- **Traveling & Exploring** ✈️🌍
+
+---
+
+Thanks for stopping by! Feel free to reach out if you want to collaborate or just chat about data science, technology, or anything else! 😊
+
+---
+ -->
 
 
-#### :star: Bookmarks 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
-[Argo Scholar, Interactive Literature Visualization App](https://poloclub.github.io/argo-scholar/)
-
-[Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
-
-#### :books: Bookshelf: 
-
-[ISLR: Introduction to Statistical Learning](https://amzn.to/3BRjEpZ)
-
-[The Elements of Statistical Learning](https://amzn.to/3BNtyZC)
-
-[DEBUGGING](https://amzn.to/3DSOgtQ)
-
-[Naked Statistics: Stripping the Dread from the Data](https://amzn.to/3SgtIja)
-
-
-
-
-
-
-
-
-## Technologies I Love
-![alt text](http://url/to/img.png)
-
-## Recent Reads / Bookshelf: 
-
-[An Introduction to Statistical Learning](https://amzn.to/3BRjEpZ)
-
-[The Elements of Statistical Learning](https://amzn.to/3BNtyZC)
-
-[Coffee Break Pandas](https://amzn.to/3fpXP9p)
-
-[DEBUGGING](https://amzn.to/3DSOgtQ)
-
-[Naked Statistics: Stripping the Dread from the Data](https://amzn.to/3SgtIja)
-
-### Hi there :wave:
-## Hi there :wave:
-# Hi there :wave:
-
-
-**autumnmarin/autumnmarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- :books: 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ 
-
-😄 
-
-👋 :woman_student:
--->
