@@ -43,6 +43,11 @@ Hello! I'm **Autumn** 🎓, a recent graduate from the **Georgia Tech Analytics 
 
 ## :books: Bookshelf:
 
+
+- [Probabilistic Machine Learning for Finance and Investing: A Primer to Generative AI with Python](https://read.amazon.com/kp/embed?asin=B0CFTFZWS7&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_YR5XFW4K33AA2B3B9H2D)
+  
+  :eyes: :point_up_2: I am listed in the Acknowledgements section :wink:
+ 
 - [ISLR: Introduction to Statistical Learning](https://amzn.to/3BRjEpZ)
 
 - [The Elements of Statistical Learning](https://amzn.to/3BNtyZC)
