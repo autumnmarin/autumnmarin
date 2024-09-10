@@ -15,7 +15,7 @@ Hello! I'm **Autumn** 🎓, a recent graduate from the **Georgia Tech Analytics 
 ---
 ## 🔍 Recent Projects
 
-- **Ames Dataset Deepdive Comparing Sale Price Prediction with Various Models** :house:  In Progress
+- **Ames Dataset Deep Dive Comparing Sale Price Prediction with Various Models** :house:  In Progress
 - **Martingale in Python** 🎲  Implemented a Martingale simulation for a roulette wheel to analyze betting strategy outcomes.
 - **Simulation to Optimize Medley Relay** 🏅 Developed an Excel-based simulation to optimize medley relay team compositions based on swimmer performance metrics.
 - **Atlanta Airport Arrivals Simulation in Arena** ✈️ Built a simulation model for Atlanta airport arrivals using Arena simulation software to optimize operations.
