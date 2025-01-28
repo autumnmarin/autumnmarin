@@ -9,7 +9,7 @@ Hello! I'm **Autumn** 🎓, a recent graduate from the **Georgia Tech Analytics 
 ## 🎯 What I Do
 
 - **Data Analysis & Visualization** 📊: Transforming raw data into compelling stories using tools like Python 🐍, R 📉, and Tableau 📈.
-- **Big Data Technologies** 💾: Working with large datasets using Excel and SQL 🛠️.
+- **Big Data Technologies** 💾: Working with large datasets using Amazon S3 and SQL 🛠️.
 - **Business Intelligence** 🕵️: Leveraging data to drive business strategy and decision-making.
 
 ---
