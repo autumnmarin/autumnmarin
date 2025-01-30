@@ -2,9 +2,41 @@
 
 ## 🌟 About Me
 
-Hello! I'm **Autumn** 🎓, a recent graduate from the **Georgia Tech Analytics Masters Program** 🐝. As a data scientist, I'm passionate about turning data into actionable insights💡 and communicating those results concisely 🤖.
+Hello! I'm Autumn 🎓, a recent graduate from the Georgia Tech Analytics Masters Program 🐝. As a data scientist, I have an unending curiosity for uncovering patterns in data, transforming insights into action 💡, and communicating results in a way that drives meaningful impact 🤖.
 
 ---
+## :house: 🎯 Recent End-to-End Project: Predicting House Prices in Ames
+**[🔗 GitHub Repository](<ADD-YOUR-REPO-LINK-HERE>)**  
+
+This project is an **in-depth analysis of the Ames Housing dataset**, where I applied **machine learning models** to predict house sale prices. Instead of merely running standard models, I leveraged **feature engineering, domain knowledge, and advanced model comparison** techniques to improve prediction accuracy.  
+
+🔹 **Key Highlights:**
+- 📌 **Feature Engineering:** Grouped related features to enhance predictive power  
+- 📌 **Modeling:** Compared Decision Trees, Random Forests, Gradient Boosting, and Linear Regression  
+- 📌 **Performance Metrics:** Evaluated RMSE and R² to measure model effectiveness  
+ 
+
+📊 **Technologies Used:**
+- Python 🐍 (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
+- Machine Learning Models (Linear Regression, Gradient Boosting, Random Forest, Decision Trees)  
+- Feature Engineering & Data Preprocessing  
+- GitHub for Version Control 🛠  
+
+📢 **Why This Matters:**  
+Most approaches to this dataset focus on either **raw correlations** or **brute-force feature selection**. My approach **leverages real-estate knowledge** to construct meaningful categories (e.g., grouping porch types, analyzing basement features separately), which led to better model interpretability and stronger predictions...in some cases. See the write-up where I explain.  
+
+🔗 **Check out the full repo**: **[Click here to explore the project](<ADD-YOUR-REPO-LINK-HERE>)**  
+---
+
+## 🔍 Recent Projects
+
+- **Ames Dataset Deep Dive Comparing Sale Price Prediction with Various Models** :house:  **(Latest)**
+- **Martingale in Python** 🎲  Implemented a Martingale simulation for a roulette wheel to analyze betting strategy outcomes.
+- **Simulation to Optimize Medley Relay** 🏅 Developed an Excel-based simulation to optimize medley relay team compositions based on swimmer performance metrics.
+- **Atlanta Airport Arrivals Simulation in Arena** ✈️ Built a simulation model for Atlanta airport arrivals using Arena simulation software to optimize operations.
+---
+
+--- 
 
 ## 🎯 What I Do
 
