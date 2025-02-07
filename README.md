@@ -5,8 +5,16 @@
 Hello! I'm Autumn 🎓, a recent graduate from the Georgia Tech Analytics Masters Program 🐝. As a data scientist, I have an unending curiosity for uncovering patterns in data, transforming insights into action 💡, and communicating results in a way that drives meaningful impact 🤖.
 
 ---
-## :house: 🎯 Recent End-to-End Project: Predicting House Prices in Ames
-**[🔗 GitHub Repository](<ADD-YOUR-REPO-LINK-HERE>)**  
+## :house: 🎯 Recent Project: Predicting House Prices in Ames
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/autumnmarin/Ames)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1a2a7b22-77bd-44bf-8567-aa1d5722cd7c" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/29b453b5-6a2d-47ae-afc3-da64e2ade0c3" width="400"></td>
+  </tr>
+</table>
 
 This project is an **in-depth analysis of the Ames Housing dataset**, where I applied **machine learning models** to predict house sale prices. Instead of merely running standard models, I leveraged **feature engineering, domain knowledge, and advanced model comparison** techniques to improve prediction accuracy.  
 
@@ -24,19 +32,15 @@ This project is an **in-depth analysis of the Ames Housing dataset**, where I ap
 
 📢 **Why This Matters:**  
 Most approaches to this dataset focus on either **raw correlations** or **brute-force feature selection**. My approach **leverages real-estate knowledge** to construct meaningful categories (e.g., grouping porch types, analyzing basement features separately), which led to better model interpretability and stronger predictions...in some cases. See the write-up where I explain.  
-
-🔗 **Check out the full repo**: **[Click here to explore the project](<ADD-YOUR-REPO-LINK-HERE>)**  
+ 
 ---
 
 ## 🔍 Recent Projects
 
-- **Ames Dataset Deep Dive Comparing Sale Price Prediction with Various Models** :house:  **(Latest)**
 - **Martingale in Python** 🎲  Implemented a Martingale simulation for a roulette wheel to analyze betting strategy outcomes.
 - **Simulation to Optimize Medley Relay** 🏅 Developed an Excel-based simulation to optimize medley relay team compositions based on swimmer performance metrics.
 - **Atlanta Airport Arrivals Simulation in Arena** ✈️ Built a simulation model for Atlanta airport arrivals using Arena simulation software to optimize operations.
 ---
-
---- 
 
 ## 🎯 What I Do
 
@@ -44,13 +48,6 @@ Most approaches to this dataset focus on either **raw correlations** or **brute-
 - **Big Data Technologies** 💾: Working with large datasets using Amazon S3 and SQL 🛠️.
 - **Business Intelligence** 🕵️: Leveraging data to drive business strategy and decision-making.
 
----
-## 🔍 Recent Projects
-
-- **Ames Dataset Deep Dive Comparing Sale Price Prediction with Various Models** :house:  In Progress
-- **Martingale in Python** 🎲  Implemented a Martingale simulation for a roulette wheel to analyze betting strategy outcomes.
-- **Simulation to Optimize Medley Relay** 🏅 Developed an Excel-based simulation to optimize medley relay team compositions based on swimmer performance metrics.
-- **Atlanta Airport Arrivals Simulation in Arena** ✈️ Built a simulation model for Atlanta airport arrivals using Arena simulation software to optimize operations.
 ---
 
 ## 🎓 Education
