@@ -41,7 +41,7 @@ Most approaches to this dataset focus on either **raw correlations** or **brute-
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/2ae3b9e8-6d7b-4006-8192-74b80147c73d" width="400"></td>
-    <td><img src="https://github.com/user-attachments/assets/2ae3b9e8-6d7b-4006-8192-74b80147c73d" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/0abfac5a-5fbf-4c06-b588-f3b6c6315f00" width="400"></td>
   </tr>
 </table>
 
