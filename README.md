@@ -47,9 +47,9 @@ Most approaches to this dataset focus on either **raw correlations** or **brute-
 
 This project tackles the **challenge of optimizing a medley relay lineup**, where swimmers often excel in multiple strokes, creating trade-offs in event selection. Instead of guessing or manually shuffling times, I developed an **Excel Solver-based optimization model** to automatically determine the fastest possible relay combination.  
 
-🔗 **Check out the full write-up in the repository!**
+🔗 [**Check out the full write-up in the repository!**](---https://github.com/autumnmarin/Medley_Relay)
 
-
+---
 
 ## 🎯 What I Do
 
