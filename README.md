@@ -36,7 +36,7 @@ Most approaches to this dataset focus on either **raw correlations** or **brute-
 ---
 ## 🏊‍♂️ 🎯 Medley Relay Optimization  
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)]([https://github.com/autumnmarin/MedleyRelayOptimization](https://github.com/autumnmarin/Medley_Relay))
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/autumnmarin/Medley_Relay)
 
 <table>
   <tr>
