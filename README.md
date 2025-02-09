@@ -34,13 +34,22 @@ This project is an **in-depth analysis of the Ames Housing dataset**, where I ap
 Most approaches to this dataset focus on either **raw correlations** or **brute-force feature selection**. My approach **leverages real-estate knowledge** to construct meaningful categories (e.g., grouping porch types, analyzing basement features separately), which led to better model interpretability and stronger predictions...in some cases. See the write-up where I explain.  
  
 ---
+## 🏊‍♂️ 🎯 Medley Relay Optimization  
 
-## 🔍 Recent Projects
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)]([https://github.com/autumnmarin/MedleyRelayOptimization](https://github.com/autumnmarin/Medley_Relay))
 
-- **Martingale in Python** 🎲  Implemented a Martingale simulation for a roulette wheel to analyze betting strategy outcomes.
-- **Simulation to Optimize Medley Relay** 🏅 Developed an Excel-based simulation to optimize medley relay team compositions based on swimmer performance metrics.
-- **Atlanta Airport Arrivals Simulation in Arena** ✈️ Built a simulation model for Atlanta airport arrivals using Arena simulation software to optimize operations.
----
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2ae3b9e8-6d7b-4006-8192-74b80147c73d" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/2ae3b9e8-6d7b-4006-8192-74b80147c73d" width="400"></td>
+  </tr>
+</table>
+
+This project tackles the **challenge of optimizing a medley relay lineup**, where swimmers often excel in multiple strokes, creating trade-offs in event selection. Instead of guessing or manually shuffling times, I developed an **Excel Solver-based optimization model** to automatically determine the fastest possible relay combination.  
+
+🔗 **Check out the full write-up in the repository!**
+
+
 
 ## 🎯 What I Do
 
