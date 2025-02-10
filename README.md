@@ -1,7 +1,5 @@
 # 👋 Hello!
 
-## 🌟 About Me
-
 Hello! I'm Autumn 🎓, a recent graduate from the Georgia Tech Analytics Masters Program 🐝. As a data scientist, I have an unending curiosity for uncovering patterns in data, transforming insights into action 💡, and communicating results in a way that drives meaningful impact 🤖.
 
 ---
@@ -51,11 +49,36 @@ This project tackles the **challenge of optimizing a medley relay lineup**, wher
 
 ---
 
-## 🎯 What I Do
+## 🚀 Technical Skills
 
-- **Data Analysis & Visualization** 📊: Transforming raw data into compelling stories using tools like Python 🐍, R 📉, and Tableau 📈.
-- **Big Data Technologies** 💾: Working with large datasets using Amazon S3 and SQL 🛠️.
-- **Business Intelligence** 🕵️: Leveraging data to drive business strategy and decision-making.
+### 🤖 Machine Learning & Predictive Modeling
+- Developing and optimizing models using:
+  - **Linear Regression, Decision Trees, Random Forests**
+  - **Gradient Boosting (LightGBM, XGBoost, CatBoost)**
+  - **Support Vector Machines (SVM), Neural Networks (TensorFlow, PyTorch)**
+  - **Clustering (K-Means, DBSCAN), Principal Component Analysis (PCA)**
+
+### 🧠 Data Analysis & Feature Engineering
+- Data wrangling, preprocessing, and feature engineering with:
+  - **Pandas, NumPy, Scikit-learn, Statsmodels**
+  - Handling missing values, scaling, encoding categorical variables
+  - Engineering domain-specific features to enhance model performance
+
+### 📊 Data Visualization & Storytelling
+- Communicating insights using:
+  - **Matplotlib, Seaborn, Plotly, Tableau**
+  - Creating interactive and high-impact visualizations for stakeholder engagement
+
+### 💾 Big Data & Scalable Computing
+- Working with large-scale datasets using:
+  - **Amazon S3, Google BigQuery, Apache Spark, SQL**
+  - Optimizing storage and query performance for large datasets
+
+### 📈 Business Intelligence & Data-Driven Strategy
+- Applying data science for:
+  - **Forecasting, market analysis, and strategic decision-making**
+  - Business intelligence tools: **Power BI, Looker**
+  - Automating reporting and dashboarding solutions
 
 ---
 
@@ -70,13 +93,7 @@ This project tackles the **challenge of optimizing a medley relay lineup**, wher
 - **Bachelor of Science in Business Finance** :chart:  
   *California State University Sacramento* :deciduous_tree:
 
----
-## 🛠️ Tools & Technologies
 
-- **Programming Languages**: Python 🐍, R 📉, SQL 💻
-- **Data Visualization**: Tableau 📊, Matplotlib 📈, Seaborn 🌊
-- **Machine Learning**:Scikit-learn 🧪 BERTopic 🤖
-- **Others**: GitHub 🐱,  Jupyter Notebooks 📓
 ---
 
 
