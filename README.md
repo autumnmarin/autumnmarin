@@ -55,7 +55,7 @@ This project tackles the **challenge of optimizing a medley relay lineup**, wher
 
 Machine learning terms with **simple, intuitive explanations.**   
 
-🔗 **View the repository:** [ML Decoded on GitHub](#)  
+🔗 **View the repository:** [ML Decoded on GitHub](https://github.com/autumnmarin/ML_Decoded)
 
 ---
 
