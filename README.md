@@ -3,6 +3,9 @@
 ---
 
 ### 🏥 Predicting Cirrhosis Patient Outcomes with Multi-Class Classification 
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/autumnmarin/cirrhosis)
+
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/b1d56b4f-00fd-4992-8ca8-83317825700a" width="400"></td>
@@ -10,7 +13,7 @@
   </tr>
 </table>
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/autumnmarin/cirrhosis)
+
 
 
 
