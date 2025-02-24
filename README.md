@@ -1,7 +1,7 @@
 👋 Hello! I'm Autumn 🎓, a recent graduate from the Georgia Tech Analytics Masters Program 🐝. As a data scientist, I have an unending curiosity for uncovering patterns in data, transforming insights into action 💡, and communicating results in a way that drives meaningful impact 🤖.
 
 ---
-## :house: 🎯 Recent Project: Predicting House Prices in Ames
+## :house:  Recent Project: Predicting House Prices in Ames
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/autumnmarin/Ames)
 
@@ -30,7 +30,7 @@ This project is an **in-depth analysis of the Ames Housing dataset**, where I ap
 Most approaches to this dataset focus on either **raw correlations** or **brute-force feature selection**. My approach **leverages real-estate knowledge** to construct meaningful categories (e.g., grouping porch types, analyzing basement features separately), which led to better model interpretability and stronger predictions...in some cases. See the write-up where I explain.  
  
 ---
-## 🏊‍♂️ 🎯 Medley Relay Optimization  
+## 🎯 Medley Relay Optimization  
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/autumnmarin/Medley_Relay)
 
