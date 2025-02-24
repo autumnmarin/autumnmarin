@@ -38,7 +38,7 @@ Many classification models for medical datasets rely on direct correlations or m
 
 ---
 
-## :house:  Recent Project: Predicting House Prices in Ames
+## :house:  A Different Approach to Feature Engineering for Predicting House Prices in Ames
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/autumnmarin/Ames)
 
