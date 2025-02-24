@@ -1,6 +1,43 @@
 👋 Hello! I'm Autumn 🎓, a recent graduate from the Georgia Tech Analytics Masters Program 🐝. As a data scientist, I have an unending curiosity for uncovering patterns in data, transforming insights into action 💡, and communicating results in a way that drives meaningful impact 🤖.
 
 ---
+
+### 🏥 Predicting Cirrhosis Patient Outcomes with Multi-Class Classification 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b1d56b4f-00fd-4992-8ca8-83317825700a" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/aeb49a00-6a70-4848-857a-6beebefc33ee" width="400"></td>
+  </tr>
+</table>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/autumnmarin/cirrhosis)
+
+
+
+This project focuses on predicting patient outcomes in the **Cirrhosis Outcome Prediction** Kaggle competition. Instead of applying a basic classification model, I utilized **feature engineering**, **domain knowledge**, and **model optimization techniques** to improve multi-class prediction accuracy.  
+
+🔹 **Key Highlights:**  
+
+🚧 Pending Publication 
+
+<!--📌 **Feature Engineering:** Created domain-specific features like bilirubin-to-albumin ratio, log transformations for skeId features, and binary indicators for critical thresholds.  
+📌 **Modeling:** Compared **XGBoost, LightGBM, and CatBoost**, fine-tuning hyperparameters and using **stacking ensembles** for performance gains.  
+📌 **Performance Metrics:** Evaluated using **multi-class log loss** and **cross-validation** to ensure model generalization. -->  
+
+📊 **Technologies Used:**  
+
+- **Python** 🐍 <!--(Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, CatBoost)  --> Models: 🚧 Pending Publication 
+- **Feature Engineering & Data Preprocessing** (One-hot encoding, ratio calculations, outlier removal)  
+- **Hyperparameter Tuning** (Randomized Search, Stratified K-Fold Validation)  
+- **GitHub for Version Control** 🛠  
+
+**🔬 Innovative Methods Used:**  
+Many classification models for medical datasets rely on direct correlations or minimal preprocessing. This project takes a more **data-driven and clinical approach**, engineering features that **reflect real-world liver disease progression**. This improves both interpretability and predictive power.  
+
+🔗 [**Check out the full write-up in the repository!**](https://github.com/autumnmarin/cirrhosis)
+
+---
+
 ## :house:  Recent Project: Predicting House Prices in Ames
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/autumnmarin/Ames)
@@ -15,7 +52,7 @@
 This project is an **in-depth analysis of the Ames Housing dataset**, where I applied **machine learning models** to predict house sale prices. Instead of merely running standard models, I leveraged **feature engineering, domain knowledge, and advanced model comparison** techniques to improve prediction accuracy.  
 
 🔹 **Key Highlights:**
-- 📌 **Feature Engineering:** Grouped related features to enhance predictive power  
+- 📌 **Feature Engineering:** Grouped related features to enhance predictive poIr  
 - 📌 **Modeling:** Compared Decision Trees, Random Forests, Gradient Boosting, and Linear Regression  
 - 📌 **Performance Metrics:** Evaluated RMSE and R² to measure model effectiveness  
  
@@ -26,8 +63,10 @@ This project is an **in-depth analysis of the Ames Housing dataset**, where I ap
 - Feature Engineering & Data Preprocessing  
 - GitHub for Version Control 🛠  
 
-📢 **Why This Matters:**  
+📢 **🔬 Innovative Methods Used:**
 Most approaches to this dataset focus on either **raw correlations** or **brute-force feature selection**. My approach **leverages real-estate knowledge** to construct meaningful categories (e.g., grouping porch types, analyzing basement features separately), which led to better model interpretability and stronger predictions...in some cases. See the write-up where I explain.  
+
+🔗 [**Check out the full write-up in the repository!**](https://github.com/autumnmarin/Ames)
  
 ---
 ## 🎯 Medley Relay Optimization  
@@ -85,7 +124,7 @@ Machine learning terms with **simple, intuitive explanations.**
 ### 📈 Business Intelligence & Data-Driven Strategy
 - Applying data science for:
   - **Forecasting, market analysis, and strategic decision-making**
-  - Business intelligence tools: **Power BI, Looker**
+  - Business intelligence tools: **PoIr BI, Looker**
   - Automating reporting and dashboarding solutions
 
 ---
@@ -95,7 +134,7 @@ Machine learning terms with **simple, intuitive explanations.**
 - **Masters of Science in Analytics** 🐝  
   *Georgia Institute of Technology* 🌐
 
-- **Web Development Professional Certificate** 📜  
+- **Ib Development Professional Certificate** 📜  
   *University of California, Davis* 🌟
 
 - **Bachelor of Science in Business Finance** :chart:  
