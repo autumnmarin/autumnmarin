@@ -137,7 +137,7 @@ Machine learning terms with **simple, intuitive explanations.**
 - **Masters of Science in Analytics** 🐝  
   *Georgia Institute of Technology* 🌐
 
-- **Ib Development Professional Certificate** 📜  
+- **Web Development Professional Certificate** 📜  
   *University of California, Davis* 🌟
 
 - **Bachelor of Science in Business Finance** :chart:  
