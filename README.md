@@ -21,15 +21,14 @@ This project focuses on predicting patient outcomes in the **Cirrhosis Outcome P
 
 🔹 **Key Highlights:**  
 
-🚧 Pending Publication 
-
-<!--📌 **Feature Engineering:** Created domain-specific features like bilirubin-to-albumin ratio, log transformations for skeId features, and binary indicators for critical thresholds.  
+📌 **Feature Engineering:** Created domain-specific features like bilirubin-to-albumin ratio, log transformations for skeId features, and binary indicators for critical thresholds.  
 📌 **Modeling:** Compared **XGBoost, LightGBM, and CatBoost**, fine-tuning hyperparameters and using **stacking ensembles** for performance gains.  
-📌 **Performance Metrics:** Evaluated using **multi-class log loss** and **cross-validation** to ensure model generalization. -->  
+📌 **Performance Metrics:** Evaluated using **multi-class log loss** and **cross-validation** to ensure model generalization. 
 
 📊 **Technologies Used:**  
 
-- **Python** 🐍 <!--(Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, CatBoost)  --> Models: 🚧 Pending Publication 
+- **Python** 🐍 Pandas, NumPy, Scikit-learn
+- **Winning Model** XGBoost
 - **Feature Engineering & Data Preprocessing** (One-hot encoding, ratio calculations, outlier removal)  
 - **Hyperparameter Tuning** (Randomized Search, Stratified K-Fold Validation)  
 - **GitHub for Version Control** 🛠  
