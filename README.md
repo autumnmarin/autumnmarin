@@ -1,5 +1,46 @@
 👋 Hello! I'm Autumn 🎓, a recent graduate from the Georgia Tech Analytics Masters Program 🐝. As a data scientist, I have an unending curiosity for uncovering patterns in data, transforming insights into action 💡, and communicating results in a way that drives meaningful impact 🤖.
 
+
+### 🎒 What’s in the Bag? Breaking Down Price Prediction with ML
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/autumnmarin/backpack_pred)
+
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d4c7c895-bfe9-49d4-a810-501d2aa8f7d2" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/1f9cc530-97ab-4e69-a991-792d5043eaa5" width="400"></td>
+  </tr>
+</table>
+
+This project focuses on predicting product prices in the Backpack Price Prediction Kaggle competition. Rather than applying a basic regression model, the pipeline leverages feature engineering, real-world intuition, and model optimization to improve predictive accuracy in a noisy commercial dataset.
+
+---
+
+🔹 **Key Highlights:**
+
+📌 **Feature Engineering**: Constructed product-specific features such as weight-to-compartment interactions, log transformations for skewed fields, and multi-way categorical combinations (e.g., brand + material + size).  
+📌 **Modeling**: Benchmarked XGBoost, LightGBM, and CatBoost, incorporating Optuna for tuning and using a stacked ensemble with Ridge regression for final predictions.  
+📌 **Performance Metrics**: Evaluated using RMSE on both notebook and Kaggle leaderboard submissions to track generalization.
+
+---
+
+📊 **Technologies Used:**
+
+- Python 🐍 Pandas, NumPy, Scikit-learn  
+- **Winning Model**: Stacked Ensemble (XGBoost + LightGBM + CatBoost)  
+- Feature Engineering & Preprocessing (One-hot encoding, interaction terms, outlier removal)  
+- Hyperparameter Tuning (Optuna, Cross-Validation)  
+- GitHub for Version Control 🛠  
+
+---
+
+🔬 **Innovative Methods Used:**  
+While many tabular models focus solely on boosting performance, this project highlights the value of domain-aware feature construction and rigorous evaluation across multiple modeling pipelines. A shared preprocessing module ensured fairness across models and streamlined experimentation.
+
+
+🔗 [**Check out the full write-up in the repository!**](https://github.com/autumnmarin/backpack_pred)
+
 ---
 
 ### 🏥 Predicting Cirrhosis Patient Outcomes with Multi-Class Classification 
