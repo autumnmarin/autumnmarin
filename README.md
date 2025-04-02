@@ -1,8 +1,7 @@
 ### 🚀 Exciting News! 🏆
+**Finished in the Top 5% of the Rainfall Prediction Kaggle competition! 🌧️**
 
-#### Finished in the Top 5% of the Rainfall Prediction Kaggle competition! 🌧️
-
-#### Write-up coming soon – stay tuned! ⭐
+**Write-up coming soon – stay tuned! ⭐**
 
 ---
 
