@@ -1,5 +1,14 @@
+### 🚀 Exciting News! 🏆
+
+#### Finished in the Top 5% of the Rainfall Prediction Kaggle competition! 🌧️
+
+#### Write-up coming soon – stay tuned! ⭐
+
+---
+
 👋 Hello! I'm Autumn 🎓, a recent graduate from the Georgia Tech Analytics Masters Program 🐝. As a data scientist, I have an unending curiosity for uncovering patterns in data, transforming insights into action 💡, and communicating results in a way that drives meaningful impact 🤖.
 
+---
 
 ### 🎒 What’s in the Bag? Breaking Down Price Prediction with ML
 
