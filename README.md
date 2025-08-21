@@ -1,6 +1,8 @@
 ### 🚀 Exciting News! 🏆
 **Finished in the Top 5% of the Rainfall Prediction Kaggle competition! 🌧️**
 
+I used leakage-safe time-series cross-validation, engineering weather-specific lag and seasonal features, and blending ensemble models for robust performance.
+
 **Write-up coming soon – stay tuned! ⭐**
 
 ---
