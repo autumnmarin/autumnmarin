@@ -11,7 +11,7 @@ I combined CatBoost, feature engineering, oversampling, and Optuna hyperparamete
 
 ---
 
-### 🎒 What’s in the Bag? Breaking Down Price Prediction with ML
+### 🎒 Backpack Price Modeling and Prediction with ML
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/autumnmarin/backpack_pred)
 
