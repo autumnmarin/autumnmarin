@@ -1,7 +1,7 @@
 ### 🚀 Exciting News! 🏆
 **Finished in the Top 5% of the Rainfall Prediction Kaggle competition! 🌧️**
 
-I used leakage-safe time-series cross-validation, engineering weather-specific lag and seasonal features, and blending ensemble models for robust performance.
+I combined CatBoost, feature engineering, oversampling, and Optuna hyperparameter tuning into a powerful pipeline — and even explored embeddings & clustering for deeper insight.
 
 **Write-up coming soon – stay tuned! ⭐**
 
