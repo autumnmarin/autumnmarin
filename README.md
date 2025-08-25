@@ -7,7 +7,7 @@ I combined CatBoost, feature engineering, oversampling, and Optuna hyperparamete
 
 ---
 
-👋 Hello! I'm Autumn 🎓, a recent graduate from the Georgia Tech Analytics Masters Program 🐝. As a data scientist, I have an unending curiosity for uncovering patterns in data, transforming insights into action 💡, and communicating results in a way that drives meaningful impact 🤖.
+👋 Hello, I’m Autumn. I hold a Master’s in Analytics from Georgia Tech, where I developed deep expertise in data science, machine learning, and strategy. I have a strong curiosity for uncovering patterns in complex data, turning insights into action, and communicating results in a way that drives meaningful, high-value impact.
 
 ---
 
